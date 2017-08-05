@@ -1,0 +1,5 @@
+'balanced-attempts', (0, 71)
+'balanced-last_attempt', (512, 74)
+'make_withdraw-attempts', (1024, 71)
+'make_withdraw-last_attempt', (1536, 74)
+'make_withdraw-correct', (2048, 70)
